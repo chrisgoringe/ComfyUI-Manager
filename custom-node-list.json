@@ -2816,6 +2816,17 @@
         },
         {
             "author": "chrisgoringe",
+            "title": "Comfy Controller",
+            "id": "cg-controller",
+            "reference": "https://github.com/chrisgoringe/cg-controller",
+            "files": [
+                "https://github.com/chrisgoringe/cg-controller"
+            ],
+            "install_type": "git-clone",
+            "description": "A flaoting control panel that shows widgets from selected (red) nodes"
+        },
+        {
+            "author": "chrisgoringe",
             "title": "Prompt Info",
             "id": "promptinfo",
             "reference": "https://github.com/chrisgoringe/cg-prompt-info",
